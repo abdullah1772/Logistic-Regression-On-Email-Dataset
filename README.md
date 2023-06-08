@@ -7,7 +7,7 @@ This repository contains a Jupyter Notebook that demonstrates the application of
 
 
 **Dataset**
-The dataset used in this project consists of a collection of emails, with each email labeled as either spam or not spam (ham). The dataset has been preprocessed and is ready for analysis.
+The dataset used in this project consists of a collection of emails, with each email labeled as either spam or not spam (ham). The dataset has been preprocessed and is ready to be used for analysis.
 
 **Notebook Overview**
 In the notebook, we walk through the entire process of applying binary logistic regression to the email data. Here's an overview of the key sections covered:
